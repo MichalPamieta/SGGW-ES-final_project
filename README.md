@@ -1,5 +1,5 @@
 # Expert Systems - final project
-Student project made in Python and using numpy, skfuzzy, matplotlib, tkinter libraries.
+Student project made in Python and using the following libraries: numpy, skfuzzy, matplotlib, tkinter.
 
 PROJEKT NA ZALICZENIE PRZEDMIOTU SYSTEMY EKSPERTOWE
 AUTOR: Michał Pamięta
